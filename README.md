@@ -24,6 +24,12 @@ The IPE Dashboard is an AI-powered integrated platform for incident resolution a
 - Real-time Logs: View live incident logs and historical data.
 - Incident Analytics: Visualize incident trends using interactive charts.
 
+## Installation
+Prerequisites:
+- Node.js & npm installed
+- Java & Spring Boot configured
+- Python
+
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
