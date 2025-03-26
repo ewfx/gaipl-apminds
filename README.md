@@ -18,11 +18,11 @@ The IPE Dashboard is an AI-powered integrated platform for incident resolution a
 
 ## Features
 
-Incident Resolution: Resolve incidents quickly using an integrated agentic tool.
-AI Chatbot: Chat with a GPT-powered AI assistant to get contextual responses.
-Proactive Recommendations: Provide insights based on telemetry and related incidents.
-Real-time Logs: View live incident logs and historical data.
-Incident Analytics: Visualize incident trends using interactive charts.
+- Incident Resolution: Resolve incidents quickly using an integrated agentic tool.
+- AI Chatbot: Chat with a GPT-powered AI assistant to get contextual responses.
+- Proactive Recommendations: Provide insights based on telemetry and related incidents.
+- Real-time Logs: View live incident logs and historical data.
+- Incident Analytics: Visualize incident trends using interactive charts.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
