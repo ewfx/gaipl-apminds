@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+The IPE Dashboard is an AI-powered integrated platform for incident resolution and monitoring. It provides platform support teams with a one-stop environment for identifying, resolving, and responding to incidents efficiently.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -38,7 +38,7 @@ Describe the major technical or non-technical challenges your team encountered.
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/gaipl-apminds.git
    ```
 2. Install dependencies  
    ```sh
@@ -48,13 +48,18 @@ Describe the major technical or non-technical challenges your team encountered.
    ```sh
    npm start  # or python app.py
    ```
+4. Run the backend
+   gradle bootRun  
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: React.js
+- 🔹 Backend: Spring Boot
+- 🔹 AI Integration: OpenAI GPT API
+- 🔹 Database: 
+- 🔹 Other: OpenAI API
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Vawani Pati** - [GitHub](#) | [LinkedIn](#)
+- **Akash Deep Kashyap** - [GitHub](#) | [LinkedIn](#)
+- **Rami Bathula** - [GitHub](#) | [LinkedIn](#)
+- **Padmavati** - [GitHub](#) | [LinkedIn](#)
