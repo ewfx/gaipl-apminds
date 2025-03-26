@@ -1,0 +1,9 @@
+PyPDF2
+sentence-transformers
+faiss-cpu  # Assuming you want the CPU version; use 'faiss-gpu' for GPU
+numpy
+fastapi
+pydantic
+streamlit
+openai==0.28
+PdfReader
